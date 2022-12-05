@@ -20,7 +20,8 @@ table{
 }
 
 .headertabella{
-    background-color: rgba(0, 182, 255, 50);
+    background-color: #278df9;
+    color: white;
     width: 1000px;
 }
 
@@ -29,5 +30,5 @@ table{
 }
 
 .sfondotabella{
-    background-color: red;
+    background-color:rgba(91, 219, 255, 50);
 }
