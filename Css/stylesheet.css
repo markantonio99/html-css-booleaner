@@ -2,7 +2,7 @@
 
 
 .riferimenti{
-    font-size: 12px;;
+    font-size: 12px;
 }
 
 .testo-contenuti{
@@ -10,6 +10,24 @@
 }
 
 
-.testo-evidenziato{
+.testoevidenziato{
     background-color: yellow;
+}
+
+table{
+    width: 1000px;
+    font-size: 12px;
+}
+
+.headertabella{
+    background-color: rgba(0, 182, 255, 50);
+    width: 1000px;
+}
+
+.descrizionitabella{
+    text-align: center;
+}
+
+.sfondotabella{
+    background-color: red;
 }
