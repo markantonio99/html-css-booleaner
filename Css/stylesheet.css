@@ -32,3 +32,25 @@ table{
 .sfondotabella{
     background-color:rgba(91, 219, 255, 50);
 }
+
+.immaginesovrappoostan1{
+  background-image: url("../immagini/monitor.jpg");
+  width: 200px;
+  height: 200px;
+  color:white
+}
+
+.immaginesovrappoostan2{
+    background-image: url("../immagini/graph.jpg");
+    width: 200px;
+    height: 200px;
+    color:white
+  }
+
+.text-effects{
+    padding-left: 40px;
+    padding-top: 10px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
